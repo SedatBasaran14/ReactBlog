@@ -1,5 +1,6 @@
 # ReactBlog
 
+
 ## Installation
 
 ```
@@ -17,3 +18,5 @@ You will also see any lint errors in the console.
 ## The goal of the project
 
 I wrote the pages in components using React. I did not get the articles from a database. Instead, I created text and comment 'Api's.
+
+<img src="Blog.JPG" />
