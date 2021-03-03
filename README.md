@@ -6,6 +6,7 @@
 ```
 $ git clone https://github.com/SedatBasaran14/ReactBlog.git
 $ cd ReactBlog
+$ Npm install
 ```
 ### `npm start`
 
